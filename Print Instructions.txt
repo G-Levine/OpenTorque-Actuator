@@ -1,0 +1,13 @@
+Nozzle size:
+	- 0.6mm
+Layer height:
+	- 0.2mm or under for Sun Gear, Planet Gears, and Actuator Housing
+	- 0.4mm or under for all other parts
+Infill:
+	- 100% for Sun Gear and Planet Gears
+	- 50% cubic infill for all other parts
+Perimeters:
+	- 4
+Material:
+	- Nylon for Sun Gear, Planet Gears and Actuator Housing (recommended: Polymaker CoPA)
+	- Nylon, ABS, or Polycarbonate for all other parts
